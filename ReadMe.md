@@ -2,8 +2,10 @@
 
 
 ## Versions
-* ### master
-* ### v0.0.1 - Integration of BE NodeJS auth and FE React Redux boilerplate
-* ### v0.0.2 - Adding React Routes boilerplate
+* ### master - Most up to date functionning App
+* ### v0.0.\*
+	* 1 - Integration of BE NodeJS auth and FE React Redux boilerplate
+	* 2 - First Redux boilerplate store added
 
-* ### v1.0.1
+* ### v0.1.\*
+	* 1 - 
